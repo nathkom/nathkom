@@ -24,7 +24,7 @@ learning cybersecurity!
 **GameLog** is a personal web application for tracking video game libraries and play history. Built with React and Firebase, the project emphasizes component-based design, dynamic data handling, and user-focused interfaces, allowing users to manage and update collections in a clean, intuitive way.
 * [Website](figma.com)
 
-### 
+### Common Grounds
 **Common Grounds** is my current in progress Capstone Project I'm apart of at the UW iSchool. Our goal is to be able to provide a platform where people in the Greater Seattle Area can find local third spaces, free - low cost events, and fundraiser events. This idea arose from our discovery that current social platforms that provide similiar infformation are driven engagement or paid advertising (Instagram, Tiktok, Youtube) and not by local needs. We currently have our front-end developed and published, and our current next steps are user testing and getting some real events on the site. I persoanlly helped design the UI for the site, as well as coded it's structure and small animations. 
 * [Website]([figma.com](https://nathkom.github.io/PENDA/))
   
