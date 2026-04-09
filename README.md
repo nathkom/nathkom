@@ -29,7 +29,7 @@ learning cybersecurity!
 
 I persoanlly helped design the UI for the site, as well as coded it's structure and small animations. 
 As a team we decided on our color schemes, tech stack, and conducted user research. 
-* [Website]([figma.com](https://nathkom.github.io/PENDA/))
+* [Website](https://nathkom.github.io/PENDA/)
   
 ## Skills
 * Python
