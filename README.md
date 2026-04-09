@@ -25,7 +25,10 @@ learning cybersecurity!
 * [Website](figma.com)
 
 ### Common Grounds
-**Common Grounds** is my current in progress Capstone Project I'm apart of at the UW iSchool. Our goal is to be able to provide a platform where people in the Greater Seattle Area can find local third spaces, free - low cost events, and fundraiser events. This idea arose from our discovery that current social platforms that provide similiar infformation are driven engagement or paid advertising (Instagram, Tiktok, Youtube) and not by local needs. We currently have our front-end developed and published, and our current next steps are user testing and getting some real events on the site. I persoanlly helped design the UI for the site, as well as coded it's structure and small animations. 
+**Common Grounds** is my current in progress Capstone Project I'm apart of at the UW iSchool. Our goal is to be able to provide a platform where people in the Greater Seattle Area can find local third spaces, free - low cost events, and fundraiser events. This idea arose from our discovery that current social platforms that provide similiar information are driven engagement or paid advertising (Instagram, Tiktok, Youtube) and not by local needs. We currently have our front-end developed and published, and our current next steps are user testing and getting some real events on the site. 
+
+I persoanlly helped design the UI for the site, as well as coded it's structure and small animations. 
+As a team we decided on our color schemes, tech stack, and conducted user research. 
 * [Website]([figma.com](https://nathkom.github.io/PENDA/))
   
 ## Skills
