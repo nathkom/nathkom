@@ -32,11 +32,11 @@ As a team we decided on our color schemes, tech stack, and conducted user resear
 * [Website](https://nathkom.github.io/PENDA/)
   
 ## Skills
-# Data Analysis
+### Data Analysis
 * Python
 * R
 * SQL
-# Web Development and Security
+### Web Development and Security
 * HTML/CSS/JS
 * React
 * Figma
