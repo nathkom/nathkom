@@ -1,5 +1,5 @@
 ## Hi, I'm Nathan Komissarchik 👋
-### A bit about me
+### A bit about me | [Resume](https://www.linkedin.com/in/nathan-komissarchik/)
 I’m an Informatics student at the University of Washington with interests in
 human-centered design, data systems, and technology risk & governance.
 I enjoy working on projects where technical decisions intersect with policy,
@@ -32,14 +32,17 @@ As a team we decided on our color schemes, tech stack, and conducted user resear
 * [Website](https://nathkom.github.io/PENDA/)
   
 ## Skills
+# Data Analysis
 * Python
 * R
 * SQL
+# Web Development and Security
 * HTML/CSS/JS
 * React
 * Figma
 * UI/UX
 * Security and risk assessments
+
 ## Contact
 Best way to reach me is via my email: nathankomi14@gmail.com
 or my [Linkedin](https://www.linkedin.com/in/nathan-komissarchik/)
